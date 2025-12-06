@@ -1,4 +1,3 @@
-# PSC-Ranker-for-Civil-Engineering
 # Privacy Policy
 
 **Last Updated: December 6, 2024**

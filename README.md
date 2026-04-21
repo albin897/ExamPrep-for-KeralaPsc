@@ -4,9 +4,9 @@
 
 ## Introduction
 
-Welcome to PSCRanker ("we," "our," or "us"). We are committed to protecting your privacy and ensuring you have a positive experience when using our mobile application ("App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use PSCRanker.
+Welcome to  ExamPrep for Kerala PSC ("we," "our," or "us"). We are committed to protecting your privacy and ensuring you have a positive experience when using our mobile application ("App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use PSCRanker.
 
-By using PSCRanker, you agree to the collection and use of information in accordance with this Privacy Policy.
+By using  ExamPrep for Kerala PSC, you agree to the collection and use of information in accordance with this Privacy Policy.
 
 ## Information We Collect
 
